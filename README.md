@@ -7,8 +7,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/jyoti pal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jyoti pal" height="30" width="40" /></a>
-<a href="https://instagram.com/_jyotipal_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_jyotipal_" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jyoti-pal-196a29207" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jyoti pal" height="30" width="40" /></a>
+<a href="https://instagram.com/__jyotipal__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_jyotipal_" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/jyoti pal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jyoti pal" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/jyoti pal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jyoti pal" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/jyotipal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="jyotipal" height="30" width="40" /></a>
